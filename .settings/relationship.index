@@ -1,0 +1,24 @@
+[ {
+  "baseItem" : {
+    "id" : "_7RKhkNqbEeyNg9NxIliKCQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_x3weANqiEeyNg9NxIliKCQ",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_PAkM8NqzEeyACd_r_s2OyA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PAkM8NqzEeyACd_r_s2OyA - salesSchema",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
